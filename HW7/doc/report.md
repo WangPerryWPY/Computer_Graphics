@@ -245,9 +245,10 @@ else
 
 **下面是两种投影的差异：**
 
-![CG7_1.png](https://raw.githubusercontent.com/WangPerryWPY/PIcGo/master/CG7_1.png)
+![CGHW7_1.png](https://raw.githubusercontent.com/WangPerryWPY/PIcGo/master/CGHW7_1.png)
 
-![CG7_2.png](https://raw.githubusercontent.com/WangPerryWPY/PIcGo/master/CG7_2.png)
+![CGHW7_2.png](https://raw.githubusercontent.com/WangPerryWPY/PIcGo/master/CGHW7_2.png)
+
 
 ### 2. 优化Shadowing Mapping 
 
@@ -317,5 +318,5 @@ shadow /= 9.0;
 
 #### 最终的运行效果展示：
 
-![CG7_show.gif](https://raw.githubusercontent.com/WangPerryWPY/PIcGo/master/CG7_show.gif)
+![CGHW7_show.gif](https://raw.githubusercontent.com/WangPerryWPY/PIcGo/master/CGHW7_show.gif)
 
